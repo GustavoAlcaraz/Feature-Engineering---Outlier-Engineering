@@ -46,10 +46,6 @@ inter-quantile range proximity rule for skewed variables.
 - outliers for one variable could contain useful information in the other variables
 - if there are outliers across many variables, we could remove a big chunk of dataset
 
-## In this Demo
-
-We will see how to perform trimming using the Boston House Dataset
-
 ## Important
 
 Outliers should be detected AND **removed ONLY** from the training set, and NOT from the test set.
